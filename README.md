@@ -470,12 +470,6 @@ For now, see the `tests/test.nim` file for test cases demonstrating all features
 
 5. **Client Secrets**: Never expose client secrets in client-side code. Use Basic Authentication for token requests when possible.
 
-## License
-
-MIT License
-
-Copyright (c) 2026 Leon Lysak (Niminem)
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
