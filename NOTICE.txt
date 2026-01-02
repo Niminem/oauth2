@@ -1,0 +1,8 @@
+This product includes software originally developed by
+Yoshihiro Tanaka (https://cordea.jp)
+
+Original source:
+https://github.com/CORDEA/oauth
+
+Licensed under the Apache License, Version 2.0.
+This software has been modified.
