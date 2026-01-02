@@ -8,5 +8,5 @@ srcDir        = "src"
 
 # Dependencies
 
-requires "nim >= 2.2.4"
+requires "nim >= 2.0.0"
 requires "checksums" # nim team maintained package
