@@ -31,12 +31,10 @@ Install from Nimble:
 nimble install oauth2
 ```
 
-Alternatively, you can clone the repository and install:
+Alternatively, you can clone the repository via git:
 
 ```bash
-git clone https://github.com/Niminem/OAuth2.git
-cd OAuth2
-nimble install
+git clone https://github.com/Niminem/OAuth2
 ```
 
 ## Quick Start
